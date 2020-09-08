@@ -2,7 +2,7 @@
 
 Type of Framework: Data driven framework by using page object model design pattern with Page Factory
 
-POM: As per the Page Object Model, There is be a class for every web page. Each web page has a separate class and that class holds the functionality and members of that web page. Separate classes for every individual test.
+POM: As per the Page Object Model, There is a class for every web page. Each web page has a separate class and that class holds the functionality and members of that web page. Separate classes for every individual test.
 
 Packages:  separate packages for Pages and Tests. All the web page related classes come under the Pages package and all the tests related classes come under Tests package.
 
@@ -15,6 +15,6 @@ Properties file: This file (config.properties) stores the information that remai
 Test Data: All the historical test data will be kept in an excel sheet .I use Apache POI to handle excel sheets.
 
 Maven: Using Maven for build, execution, and dependency purpose. Integrating the TestNG dependency in the POM.xml file and running this POM.xml file using Jenkins
-
+***********************
 for executing this.
 #Run Testng.xml file.
