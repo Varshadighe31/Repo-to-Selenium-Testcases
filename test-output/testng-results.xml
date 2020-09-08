@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MTour Application Test Automation Test Suite" duration-ms="76252" started-at="2020-09-08T01:40:05 IST" finished-at="2020-09-08T01:41:21 IST">
+    <groups>
+    </groups>
+    <test name="MTour App Test Cases" duration-ms="76252" started-at="2020-09-08T01:40:05 IST" finished-at="2020-09-08T01:41:21 IST">
+      <class name="com.MTour.qa.testcases.MainPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.MTour.qa.testcases.MainPageTest@34cd072c]" name="setup" is-config="true" duration-ms="17914" started-at="2020-09-08T01:40:05 IST" finished-at="2020-09-08T01:40:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginPageTitleTest()[pri:1, instance:com.MTour.qa.testcases.MainPageTest@34cd072c]" name="LoginPageTitleTest" duration-ms="95" started-at="2020-09-08T01:40:22 IST" finished-at="2020-09-08T01:40:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageTitleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.MTour.qa.testcases.MainPageTest@34cd072c]" name="teardown" is-config="true" duration-ms="260" started-at="2020-09-08T01:40:23 IST" finished-at="2020-09-08T01:40:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.MTour.qa.testcases.MainPageTest@34cd072c]" name="setup" is-config="true" duration-ms="6718" started-at="2020-09-08T01:40:23 IST" finished-at="2020-09-08T01:40:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="SubmitTest()[pri:2, instance:com.MTour.qa.testcases.MainPageTest@34cd072c]" name="SubmitTest" duration-ms="1942" started-at="2020-09-08T01:40:30 IST" finished-at="2020-09-08T01:40:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmitTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.MTour.qa.testcases.MainPageTest@34cd072c]" name="teardown" is-config="true" duration-ms="244" started-at="2020-09-08T01:40:32 IST" finished-at="2020-09-08T01:40:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.MTour.qa.testcases.MainPageTest -->
+      <class name="com.MTour.qa.testcases.ResevePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.MTour.qa.testcases.ResevePageTest@7a1ebcd8]" name="setup" is-config="true" duration-ms="10894" started-at="2020-09-08T01:40:32 IST" finished-at="2020-09-08T01:40:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ResevePageTitleTest()[pri:1, instance:com.MTour.qa.testcases.ResevePageTest@7a1ebcd8]" name="ResevePageTitleTest" duration-ms="13" started-at="2020-09-08T01:40:43 IST" finished-at="2020-09-08T01:40:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ResevePageTitleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.MTour.qa.testcases.ResevePageTest@7a1ebcd8]" name="teardown" is-config="true" duration-ms="562" started-at="2020-09-08T01:40:43 IST" finished-at="2020-09-08T01:40:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.MTour.qa.testcases.ResevePageTest@7a1ebcd8]" name="setup" is-config="true" duration-ms="8363" started-at="2020-09-08T01:40:43 IST" finished-at="2020-09-08T01:40:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyDepartsColNameText()[pri:2, instance:com.MTour.qa.testcases.ResevePageTest@7a1ebcd8]" name="VerifyDepartsColNameText" duration-ms="50" started-at="2020-09-08T01:40:52 IST" finished-at="2020-09-08T01:40:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyDepartsColNameText -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.MTour.qa.testcases.ResevePageTest@7a1ebcd8]" name="teardown" is-config="true" duration-ms="379" started-at="2020-09-08T01:40:52 IST" finished-at="2020-09-08T01:40:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.MTour.qa.testcases.ResevePageTest@7a1ebcd8]" name="setup" is-config="true" duration-ms="8059" started-at="2020-09-08T01:40:52 IST" finished-at="2020-09-08T01:41:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyArrivesColNameText()[pri:3, instance:com.MTour.qa.testcases.ResevePageTest@7a1ebcd8]" name="VerifyArrivesColNameText" duration-ms="40" started-at="2020-09-08T01:41:00 IST" finished-at="2020-09-08T01:41:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyArrivesColNameText -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.MTour.qa.testcases.ResevePageTest@7a1ebcd8]" name="teardown" is-config="true" duration-ms="312" started-at="2020-09-08T01:41:00 IST" finished-at="2020-09-08T01:41:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.MTour.qa.testcases.ResevePageTest@7a1ebcd8]" name="setup" is-config="true" duration-ms="7502" started-at="2020-09-08T01:41:01 IST" finished-at="2020-09-08T01:41:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ChooseFlightBtnTest()[pri:4, instance:com.MTour.qa.testcases.ResevePageTest@7a1ebcd8]" name="ChooseFlightBtnTest" duration-ms="1275" started-at="2020-09-08T01:41:08 IST" finished-at="2020-09-08T01:41:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChooseFlightBtnTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.MTour.qa.testcases.ResevePageTest@7a1ebcd8]" name="teardown" is-config="true" duration-ms="1542" started-at="2020-09-08T01:41:09 IST" finished-at="2020-09-08T01:41:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.MTour.qa.testcases.ResevePageTest -->
+      <class name="com.MTour.qa.testcases.PurchasePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.MTour.qa.testcases.PurchasePageTest@5faeada1]" name="setup" is-config="true" duration-ms="9411" started-at="2020-09-08T01:41:11 IST" finished-at="2020-09-08T01:41:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="PurchasePageTitleTest()[pri:1, instance:com.MTour.qa.testcases.PurchasePageTest@5faeada1]" name="PurchasePageTitleTest" duration-ms="11" started-at="2020-09-08T01:41:20 IST" finished-at="2020-09-08T01:41:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PurchasePageTitleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.MTour.qa.testcases.PurchasePageTest@5faeada1]" name="teardown" is-config="true" duration-ms="452" started-at="2020-09-08T01:41:20 IST" finished-at="2020-09-08T01:41:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.MTour.qa.testcases.PurchasePageTest -->
+    </test> <!-- MTour App Test Cases -->
+  </suite> <!-- MTour Application Test Automation Test Suite -->
+</testng-results>
